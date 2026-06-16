@@ -1,30 +1,27 @@
 Rheumatoid Arthritis Prediction
 
 Overview
+This project predicts the likelihood of Rheumatoid Arthritis using Machine Learning algorithms.
 
-This project uses Machine Learning to predict Rheumatoid Arthritis based on patient data.
+Algorithms Used
+- Logistic Regression
+- Random Forest
+- Decision Tree
+- KNN
+- SVM
+- Naive Bayes
 
-Technologies Used
-
+ Technologies
 - Python
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
 - Streamlit
 
 Features
-
-- Data preprocessing
 - Disease prediction
-- Model training
-- Prediction visualization
+- Model comparison
+- Visualization charts
+- User-friendly interface
 
-Files
 
-- app.py - Main application
-- dataset.csv - Dataset used for training
-- README.md - Project documentation
-
-Author
-
-Mahitha Raju
